@@ -9,7 +9,7 @@ Caesar-cipher-cli-tool
 2. Change current directory on cloned directory.
 3. Make `npm install` to install app and dependencies.
 4. Make `npm link` to have a possible to run app without `npm`.
-After that you can run `caesar-cli --help` or `npm run caesar-cli --help` to see hints, that can help you.
+After that you can run `caesar-cli --help` or `node ./caesar-cipher-cli.js --help` to see hints, that can help you.
 
 
 #### `--help`:
